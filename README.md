@@ -2,6 +2,8 @@
 
 A lightweight yet powerful 2D game engine for .NET 8.0, designed for developers who want total control and power without the bloat of traditional frameworks. Built with C# and the Windows API (Win32) for direct hardware input and GDI+ for flexible rendering, Parallax2D gives you the tools to create anything from simple prototypes to fun games with advanced visual effects.
 
+* Note! As of version v1.0.0, Parallax2D utilizes Windows' default GDI+ Software Rendering, which probides an easier way of downloading the engine since all you need is the DLL and Visual Studio 2022 or 2026, although GDI+ rendering tends to slow down performance.
+
 ---
 
 ## Features
