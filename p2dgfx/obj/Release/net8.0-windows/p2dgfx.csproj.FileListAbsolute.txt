@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\bin\Release\net8.0-windows\p2dgfx.deps.json
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\bin\Release\net8.0-windows\p2dgfx.dll
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\bin\Release\net8.0-windows\p2dgfx.pdb
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.AssemblyInfo.cs
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.dll
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\refint\p2dgfx.dll
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\p2dgfx.pdb
+C:\Users\HP\source\repos\ruby-dev\p2dgfx\p2dgfx\obj\Release\net8.0-windows\ref\p2dgfx.dll
