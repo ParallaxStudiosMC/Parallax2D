@@ -29,7 +29,7 @@ A lightweight yet powerful 2D game engine for .NET 8.0, designed for developers 
 ### 2. Add the Parallax2D engine
 
 Step 1:
-- Download the compiled `p2dgfx.dll` from the [releases page](github.com/ParallaxStudiosMC/Parallax2D/releases/latest) and add a reference to your project.
+- Download the compiled `p2dgfx.dll` from the [releases page](https://github.com/ParallaxStudiosMC/Parallax2D/releases/latest) and add a reference to your project.
 
 To add a reference:
 - Right‑click **Dependencies** → **Add Project Reference** → **Browse** → select the DLL.
